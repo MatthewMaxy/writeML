@@ -1,2 +1,2 @@
 # writeML
-Write normal algorithms in machine learing without sklearn
+Write normal algorithms in machine learning without sklearn
